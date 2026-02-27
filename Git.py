@@ -57,3 +57,10 @@ git checkout -b 'example' # shows a new branched 'example'
 # CLONING = Press <CODE> button on repository and under Local, copy the HTTPS and then go to GitHub Desktop,
  # where it says 'Current Reposity' and press Add and then Clone Repository, where you paste HTTPS from
  # GitHub
+
+# GITHUB ISSUES = a built-in tool used to plan, track, and discuss work for a project directly within its GitHub repository. 
+ # They serve as a centralized system for collaboration, linking conversations and task management directly to the codebase.
+
+# GITHUB PROJECTS = an adaptable and flexible tool for planning and tracking work that integrate directly with a repository's 
+ # issues and pull requests, serving as a project management interface for software development teams and individuals. 
+ # They help organize tasks, manage backlogs, and visualize progress, without enforcing a specific development methodology.

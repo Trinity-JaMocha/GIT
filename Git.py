@@ -37,3 +37,6 @@ git log # shows version history of chronological list of commit messages / like 
 git revert # undoes changes in a previous commit, go back to x version and give it a new name
 # with current time / like restoring a specific version and saving it w/ a new name w/o
 # altering the older one
+
+# ADDING A NEW BRANCH
+git checkout -b 'example' # shows a new branched 'example'

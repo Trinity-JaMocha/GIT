@@ -26,3 +26,14 @@ git status # show current state of working directory and staging area, whats goi
 # folder / like seeing document status in Google Docs
 
 # GIT RESET HEAD
+git reset HEAD # go back to a specific state of latest commit to say git unadd file / like
+# pressing the button UNDO in google docs
+
+# GIT LOG
+git log # shows version history of chronological list of commit messages / like checking the
+#  version history in google docs
+
+# GIT REVERSE
+git revert # undoes changes in a previous commit, go back to x version and give it a new name
+# with current time / like restoring a specific version and saving it w/ a new name w/o
+# altering the older one

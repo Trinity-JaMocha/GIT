@@ -51,3 +51,9 @@ git checkout -b 'example' # shows a new branched 'example'
   # can press the green button that says NEW BRANCH
 
 # Add COLLABORATORS by going to Settings
+
+# FORKING = copying repositories on GitHub after pressing the star button.
+
+# CLONING = Press <CODE> button on repository and under Local, copy the HTTPS and then go to GitHub Desktop,
+ # where it says 'Current Reposity' and press Add and then Clone Repository, where you paste HTTPS from
+ # GitHub

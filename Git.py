@@ -14,7 +14,7 @@ git config --global user.name 'Trinity_JaMocha'  # added to Terminal
 git innit # initializes a new git repository / like creating a google doc
 
 # GIT ADD
-git add # hold file b/c I have to take a screenshot and have tea to spill about file
+git add . # hold file b/c I have to take a screenshot and have tea to spill about file
 # like saving a google doc after writing, so it will be tracked
 
 # GIT COMMIT
@@ -40,3 +40,4 @@ git revert # undoes changes in a previous commit, go back to x version and give 
 
 # ADDING A NEW BRANCH
 git checkout -b 'example' # shows a new branched 'example'
+

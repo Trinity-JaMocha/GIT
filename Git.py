@@ -46,3 +46,8 @@ git checkout -b 'example' # shows a new branched 'example'
  # in the branch icon section
 
  git commit -m 'Testing Section'
+
+ # You can create also create a branch by going to the repository and clicking main, then View All Branches. Where you
+  # can press the green button that says NEW BRANCH
+
+# Add COLLABORATORS by going to Settings

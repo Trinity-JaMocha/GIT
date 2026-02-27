@@ -37,3 +37,20 @@ collaborate (see also: git help workflows)
 concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
+
+# PUSH
+# In GitHub, you can go to the branch icon and then got to the 3 dots above, where I have
+ # many options to 
+ pull
+ PUSH
+ Clone
+ Check to
+ Fetch
+ COMMIT
+ changes
+ PUSH, pull
+ branch
+ remote
+ STASH
+ tags
+ 

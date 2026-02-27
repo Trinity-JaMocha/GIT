@@ -53,7 +53,7 @@ See 'git help git' for an overview of the system.
  STASH
  tags
  
- # MAIN PORCELAIN COMMANDS
+ # MAIN PORCELAIN COMMANDS -- git help -a
 Main Porcelain Commands
    add                     Add file contents to the index
    am                      Apply a series of patches from a mailbox
@@ -251,3 +251,19 @@ External commands
    nbmergedriver
    nbmergetool
 (END)
+
+# GIT CONCEPTS --- git help -g
+The Git concept guides are:
+   core-tutorial    A Git core tutorial for developers
+   credentials      Providing usernames and passwords to Git
+   cvs-migration    Git for CVS users
+   diffcore         Tweaking diff output
+   everyday         A useful minimum set of commands for Everyday Git
+   faq              Frequently asked questions about using Git
+   glossary         A Git Glossary
+   namespaces       Git namespaces
+   remote-helpers   Helper programs to interact with remote repositories
+   submodules       Mounting one repository inside another
+   tutorial         A tutorial introduction to Git
+   tutorial-2       A tutorial introduction to Git: part two
+   workflows        An overview of recommended workflows with Git

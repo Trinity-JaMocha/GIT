@@ -11,7 +11,7 @@
 git config --global user.name 'Trinity_JaMocha'  # added to Terminal
 
 # GIT IS LIKE GOOGLE DOC # SOME EXAMPLES BELOW
-git innit # initializes a new git repository / like creating a google doc
+git init # initializes a new git repository / like creating a google doc
 
 # GIT ADD
 git add . # hold file b/c I have to take a screenshot and have tea to spill about file
@@ -41,3 +41,8 @@ git revert # undoes changes in a previous commit, go back to x version and give 
 # ADDING A NEW BRANCH
 git checkout -b 'example' # shows a new branched 'example'
 
+# NOTES
+ # When you go into branch icon, you can drag the IDE over, so you can see before and after of Git Graph below
+ # in the branch icon section
+
+ git commit -m 'Testing Section'
